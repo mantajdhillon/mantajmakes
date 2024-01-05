@@ -1,0 +1,6 @@
+/* On the rare occasion you need to override it, use something like the following:
+
+Copy
+.selector-for-some-widget {
+  box-sizing: content-box;
+} */
